@@ -8355,7 +8355,8 @@ var white_domains = {"am":{
 },"ml":{
 "ssrgo":1,
 "xy99":1,
-"ml98":1
+"ml98":1,
+"xy88":1
 },"mobi":{
 "i1515":1
 },"net":{
